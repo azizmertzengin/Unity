@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - solEngel
+  - sagEngel
+  - eCoin
+  - youtHub
+  - like
+  - disLike
+  - bomb
+  - health1
+  - health2
+  - health3
+  - optionsMenu
+  - mainMenu
+  - playAgain
+  - suspend
+  - pauseButton
+  - bigDislike
+  - canovar
+  - ground
+  - eforMan
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
